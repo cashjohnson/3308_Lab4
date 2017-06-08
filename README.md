@@ -2,3 +2,6 @@
 gimme a merge conflict =(
 =======
 Partner: Jack Bartlett
+
+Partner : Elijah Clarkei
+
